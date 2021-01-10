@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T13:45:56.824Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.5000" etag="16j_5ORGgq7GVioA255E" version="14.1.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T13:49:34.428Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.5000" etag="UHuQBqK09BlhYyXuwlxj" version="14.1.9" type="github" pages="8">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1422" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -809,7 +809,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h3hb8L7r9O4JMJhG3LYJ" name="BTree">
-    <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="drEOIIrIbKDpUEYwQNDy-0" />
         <mxCell id="drEOIIrIbKDpUEYwQNDy-1" parent="drEOIIrIbKDpUEYwQNDy-0" />
@@ -921,8 +921,11 @@
         <mxCell id="J0-3JfvDmy4W71hOYLcG-1" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="drEOIIrIbKDpUEYwQNDy-1" vertex="1">
           <mxGeometry x="211" y="430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MFYYoOGLqrf3hSB791RE-0" value="Or" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="drEOIIrIbKDpUEYwQNDy-1">
+        <mxCell id="MFYYoOGLqrf3hSB791RE-0" value="Or" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="drEOIIrIbKDpUEYwQNDy-1" vertex="1">
           <mxGeometry x="350" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_okyQM2LXAZL5nZFdZB2-0" value="子节点只能有一个!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="drEOIIrIbKDpUEYwQNDy-1">
+          <mxGeometry x="660" y="310" width="120" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
