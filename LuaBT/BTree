@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T13:49:34.428Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.5000" etag="UHuQBqK09BlhYyXuwlxj" version="14.1.9" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-10T13:51:24.451Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.5000" etag="d9YOfATtckCiC_Q2M-pt" version="14.1.9" type="github" pages="8">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1422" dy="798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -926,6 +926,9 @@
         </mxCell>
         <mxCell id="_okyQM2LXAZL5nZFdZB2-0" value="子节点只能有一个!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="drEOIIrIbKDpUEYwQNDy-1">
           <mxGeometry x="660" y="310" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CkEKd8PLobvI05z9n47X-0" value="&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Repeater：重复执行子节点，直到一定次数&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;特点如下：&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;1.执行次数可以是无限循环，也可以是固定次数&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;2.一般来说，子节点的执行返回状态不会影响Repeater节点，但可以设置当子节点返回失败时，结束执行Repeater节点&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Repeater的继承关系如下：&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Repeater-&amp;gt;Decorator-&amp;gt;ParentTask-&amp;gt;Task&lt;/p&gt;&lt;p style=&quot;margin: 10px auto ; font-family: &amp;#34;verdana&amp;#34; , sans-serif ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;因为继承装饰节点，所以其子节点只能有一个&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="drEOIIrIbKDpUEYwQNDy-1">
+          <mxGeometry x="40" y="620" width="750" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
