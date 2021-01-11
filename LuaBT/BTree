@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:45:44.229Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="21nmr9BbJci7r-z0bROs" version="14.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:48:20.446Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="qUO52a3qQu8qFaj8l7O-" version="14.1.8" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1202" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1016,43 +1016,43 @@
         <mxCell id="DcIyXDwtTcWAAHUrVcre-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="DcIyXDwtTcWAAHUrVcre-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DcIyXDwtTcWAAHUrVcre-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="DcIyXDwtTcWAAHUrVcre-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Gul3UmOwyVHARAUPt9vg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="Gul3UmOwyVHARAUPt9vg-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jk1wOVLMGfiBLrcCYbcq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="YJrWJYhJrM76nFsa-Zix-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="220" as="targetPoint" />
+            <mxPoint x="844" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBy7aKBshCHMU1lJAWHu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="SBy7aKBshCHMU1lJAWHu-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SBy7aKBshCHMU1lJAWHu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="9Hi_hBNNS_fTxOqNqx6N-0" target="SBy7aKBshCHMU1lJAWHu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9Hi_hBNNS_fTxOqNqx6N-0" value="seq-sell-buy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="524" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Hi_hBNNS_fTxOqNqx6N-1" value="Move to vendor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJrWJYhJrM76nFsa-Zix-2" value="Sell stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="740" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIyXDwtTcWAAHUrVcre-0" value="Interact vendor" style="rounded=1;whiteSpace=wrap;html=1;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DcIyXDwtTcWAAHUrVcre-1" value="Wait 1.5S" style="rounded=1;whiteSpace=wrap;html=1;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="590" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="404" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gul3UmOwyVHARAUPt9vg-0" value="Select vendor" style="rounded=1;whiteSpace=wrap;html=1;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="94" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SBy7aKBshCHMU1lJAWHu-0" value="Buy stuff" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
-          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SBy7aKBshCHMU1lJAWHu-2" value="每张地图,&amp;nbsp;每个营地保存一个vender" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
           <mxGeometry x="160" y="404" width="870" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="SBy7aKBshCHMU1lJAWHu-3" value="repair" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="954" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
