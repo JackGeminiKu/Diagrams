@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:41:20.275Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="bTxkMtQhVD76YMzUV_vf" version="14.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:42:14.755Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="6AmnlQ2AE9Cp0YaeMa7T" version="14.1.8" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1202" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1037,7 +1037,7 @@
           <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YJrWJYhJrM76nFsa-Zix-2" value="Sell stuff" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
-          <mxGeometry x="750" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DcIyXDwtTcWAAHUrVcre-0" value="Interact vendor" style="rounded=1;whiteSpace=wrap;html=1;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
@@ -1049,7 +1049,7 @@
           <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SBy7aKBshCHMU1lJAWHu-0" value="Buy stuff" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
-          <mxGeometry x="900" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
