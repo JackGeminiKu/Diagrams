@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T06:08:25.351Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="SKbGid3gQ4k69PsM65n3" version="14.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-11T06:12:31.243Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="pr48qPqHwO8ukZ44Syq4" version="14.1.8" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1202" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1094,10 +1094,16 @@
           <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RfchfythyJpxEhV-Plw7-8" value="Incombat?" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
-          <mxGeometry x="50" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxypcANqTQ6I1g5uPEZs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="RfchfythyJpxEhV-Plw7-9" target="gxypcANqTQ6I1g5uPEZs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxypcANqTQ6I1g5uPEZs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="RfchfythyJpxEhV-Plw7-9" target="gxypcANqTQ6I1g5uPEZs-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RfchfythyJpxEhV-Plw7-9" value="sequence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
-          <mxGeometry x="200" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i4mVuN_J-NCNgYnAyNQl-0" value="Not incombat" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
           <mxGeometry x="370" y="590" width="120" height="60" as="geometry" />
@@ -1116,6 +1122,12 @@
         </mxCell>
         <mxCell id="gxypcANqTQ6I1g5uPEZs-8" value="Gather" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
           <mxGeometry x="660" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxypcANqTQ6I1g5uPEZs-11" value="Select enemy" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="120" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gxypcANqTQ6I1g5uPEZs-12" value="Kill enemy" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="250" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
