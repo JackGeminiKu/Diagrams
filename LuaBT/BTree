@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T05:42:14.755Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="6AmnlQ2AE9Cp0YaeMa7T" version="14.1.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-11T05:45:44.229Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="21nmr9BbJci7r-z0bROs" version="14.1.8" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1202" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1050,6 +1050,9 @@
         </mxCell>
         <mxCell id="SBy7aKBshCHMU1lJAWHu-0" value="Buy stuff" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
           <mxGeometry x="880" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SBy7aKBshCHMU1lJAWHu-2" value="每张地图,&amp;nbsp;每个营地保存一个vender" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="160" y="404" width="870" height="386" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
