@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T06:15:55.293Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="WN-x3FwIOtQStV_lq1df" version="14.1.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-12T06:24:23.090Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="dpP6eEAk_MVv1u6b8TSv" version="14.1.9" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1087,7 +1087,7 @@
         <mxCell id="RfchfythyJpxEhV-Plw7-4" value="sequence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfchfythyJpxEhV-Plw7-8" value="Incombat?" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
+        <mxCell id="RfchfythyJpxEhV-Plw7-8" value="IsInCombat == true" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="20" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gxypcANqTQ6I1g5uPEZs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" source="RfchfythyJpxEhV-Plw7-9" target="gxypcANqTQ6I1g5uPEZs-11" edge="1">
@@ -1099,7 +1099,7 @@
         <mxCell id="RfchfythyJpxEhV-Plw7-9" value="sequence" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="190" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i4mVuN_J-NCNgYnAyNQl-0" value="Not incombat" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
+        <mxCell id="i4mVuN_J-NCNgYnAyNQl-0" value="IsInCombat == false" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="370" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gxypcANqTQ6I1g5uPEZs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" source="i4mVuN_J-NCNgYnAyNQl-2" target="SBy7aKBshCHMU1lJAWHu-12" edge="1">
