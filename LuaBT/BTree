@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T06:24:23.090Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="dpP6eEAk_MVv1u6b8TSv" version="14.1.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-14T00:43:56.891Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="VXo2kHCK6ntXUpL4uSSQ" version="14.1.9" type="github" pages="9">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
-    <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -925,7 +925,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ye5ZmGaybp1vqJQlV6GS" name="BTLynx">
-    <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="hoivh-Ub0kPKoWf0MZrE-0" />
         <mxCell id="hoivh-Ub0kPKoWf0MZrE-1" parent="hoivh-Ub0kPKoWf0MZrE-0" />
@@ -1122,6 +1122,51 @@
         </mxCell>
         <mxCell id="gxypcANqTQ6I1g5uPEZs-12" value="Kill enemy" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="5fOFpeg5HtmmD6uXV93v-1" vertex="1">
           <mxGeometry x="250" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-0" value="冰霜新星" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="109" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-1" value="冰锥术" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="249" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-2" value="火焰冲击" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="400" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-3" value="寒冰箭" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="529" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-4" value="火球术" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="699" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-5" target="0EIN91s29qvr3ECW0dng-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-5" target="0EIN91s29qvr3ECW0dng-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-5" value="selector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="179" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-10" target="0EIN91s29qvr3ECW0dng-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-10" target="0EIN91s29qvr3ECW0dng-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-10" value="selector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="609" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-13" target="0EIN91s29qvr3ECW0dng-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-13" target="0EIN91s29qvr3ECW0dng-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="5fOFpeg5HtmmD6uXV93v-1" source="0EIN91s29qvr3ECW0dng-13" target="0EIN91s29qvr3ECW0dng-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0EIN91s29qvr3ECW0dng-13" value="Fight" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="5fOFpeg5HtmmD6uXV93v-1">
+          <mxGeometry x="400" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
