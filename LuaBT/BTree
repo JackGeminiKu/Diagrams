@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T06:45:07.049Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="vhQD0AHj4p5SHfAAKyKY" version="14.2.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-01-28T06:48:29.915Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="f1klHlXjFakSF3ThJj9K" version="14.2.6" type="github" pages="11">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1243,7 +1243,7 @@
         <mxCell id="oOclHUtqZD_NfJ3bAV5Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E40_TcCQ-pTYjkINd8_S-1" source="KL_IAZx6_ivdzh_iK57H-6" target="oOclHUtqZD_NfJ3bAV5Y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KL_IAZx6_ivdzh_iK57H-6" value="seq-sell-buy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
+        <mxCell id="KL_IAZx6_ivdzh_iK57H-6" value="seq_buy_supply" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
           <mxGeometry x="540" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KL_IAZx6_ivdzh_iK57H-12" value="Every map, every camp save one vender!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
