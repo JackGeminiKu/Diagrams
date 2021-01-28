@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T07:02:57.238Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="nCjkS-sBcdMA7UjGwKxM" version="14.2.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-01-28T07:17:55.643Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="kW9Ah6lMTTWWvcLiCZT_" version="14.2.6" type="github" pages="11">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1169,8 +1169,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ByJT7KB3xELy4WJ6f5MW" name="Lynx-BSR">
-    <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="ByJT7KB3xELy4WJ6f5MW" name="Lynx-BSRE">
+    <mxGraphModel dx="1202" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="E40_TcCQ-pTYjkINd8_S-0" />
         <mxCell id="E40_TcCQ-pTYjkINd8_S-1" parent="E40_TcCQ-pTYjkINd8_S-0" />
@@ -1249,19 +1249,19 @@
         <mxCell id="KL_IAZx6_ivdzh_iK57H-12" value="Every map, every camp save one vender!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
           <mxGeometry x="287" y="770" width="336" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-0" value="interact with vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
+        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-0" value="interact" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
           <mxGeometry x="690" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOclHUtqZD_NfJ3bAV5Y-2" value="buy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
           <mxGeometry x="830" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-5" value="move to vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
+        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-5" value="move" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
           <mxGeometry x="395" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-7" value="select vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
+        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-7" value="select merchant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
           <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-9" value="target&amp;nbsp;vendor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
+        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-9" value="target" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
           <mxGeometry x="540" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oOclHUtqZD_NfJ3bAV5Y-12" value="Input&lt;br&gt;1) Which vendor?&lt;br&gt;2)&amp;nbsp;Buy&amp;nbsp;what?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="E40_TcCQ-pTYjkINd8_S-1">
