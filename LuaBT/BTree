@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T00:43:58.221Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="QrW2O4qtGoEUoxkMgQ4E" version="14.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-01-29T00:58:06.428Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="Dp11XJBjnhrbwsDaN2mj" version="14.2.7" type="github" pages="11">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1270,8 +1270,8 @@
         <mxCell id="oOclHUtqZD_NfJ3bAV5Y-15" value="1)&amp;nbsp;距离最近的&lt;br&gt;2)&amp;nbsp;有卖的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
           <mxGeometry x="135" y="600" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-20" value="1) 什么时候买?&lt;br&gt;2) 要买什么东西?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
-          <mxGeometry x="50" y="540" width="110" height="30" as="geometry" />
+        <mxCell id="oOclHUtqZD_NfJ3bAV5Y-20" value="&lt;b&gt;买补给品&lt;/b&gt;&lt;br&gt;1) 什么时候买?&lt;br&gt;2) 买什么东西?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="E40_TcCQ-pTYjkINd8_S-1" vertex="1">
+          <mxGeometry x="40" y="490" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
