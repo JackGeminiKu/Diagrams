@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T01:16:41.234Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="sIn53oV4Pve697uIn1_9" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-04T01:27:18.798Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000" etag="_T3slh2iquopkjudnEUh" version="14.2.9" type="github" pages="12">
   <diagram id="M-kJHZqg0_kqCnJMx8-0" name="BT1">
     <mxGraphModel dx="1022" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -997,7 +997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wNWUue2Xkl3NXD5AjXsq" name="Lynx-Fight">
-    <mxGraphModel dx="2109" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Vc2qKgG6qHMzlh-fE8Ht-0" />
         <mxCell id="Vc2qKgG6qHMzlh-fE8Ht-1" parent="Vc2qKgG6qHMzlh-fE8Ht-0" />
@@ -1067,7 +1067,7 @@
         <mxCell id="NMw1GbH0oTUIVgPHJybA-16" value="sequence&lt;br&gt;(Target&amp;nbsp;HP &amp;gt;1%)" style="rounded=1;whiteSpace=wrap;html=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="145" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NMw1GbH0oTUIVgPHJybA-26" value="Target HP &amp;gt; 1%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
+        <mxCell id="NMw1GbH0oTUIVgPHJybA-26" value="Target HP &amp;gt; 1%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFE6CC;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="55" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NMw1GbH0oTUIVgPHJybA-33" value="冰霜新星" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
@@ -1106,10 +1106,10 @@
         <mxCell id="NMw1GbH0oTUIVgPHJybA-50" value="sequence" style="rounded=1;whiteSpace=wrap;html=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="755" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NMw1GbH0oTUIVgPHJybA-51" value="HP &amp;lt;= 20?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
+        <mxCell id="NMw1GbH0oTUIVgPHJybA-51" value="HP &amp;lt;= 20?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFE6CC;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="675" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NMw1GbH0oTUIVgPHJybA-52" value="Target HP &amp;lt;= 1%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
+        <mxCell id="NMw1GbH0oTUIVgPHJybA-52" value="Target HP &amp;lt;= 1%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFE6CC;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="605" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NMw1GbH0oTUIVgPHJybA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" source="NMw1GbH0oTUIVgPHJybA-53" target="NMw1GbH0oTUIVgPHJybA-52" edge="1">
@@ -1154,7 +1154,7 @@
         <mxCell id="NMw1GbH0oTUIVgPHJybA-65" value="sequence&lt;br&gt;(MP &amp;lt; 5)" style="rounded=1;whiteSpace=wrap;html=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="1230" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NMw1GbH0oTUIVgPHJybA-66" value="MP &amp;lt;= 5%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
+        <mxCell id="NMw1GbH0oTUIVgPHJybA-66" value="MP &amp;lt;= 5%?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFE6CC;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="1060" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rxU1F9fjldsDqQOHDGXF-0" value="移动" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
@@ -1165,6 +1165,24 @@
         </mxCell>
         <mxCell id="rxU1F9fjldsDqQOHDGXF-8" value="寒冰箭" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="Vc2qKgG6qHMzlh-fE8Ht-1" vertex="1">
           <mxGeometry x="1510" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-0" value="火球术" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="170" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-1" value="火焰冲击" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="470" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-2" value="寒冰箭" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="320" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-3" value="冰霜新星" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-4" value="冰锥术" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="320" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xlcrxeLf2MU-Tgf69a8M-5" value="丢魔杖" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Vc2qKgG6qHMzlh-fE8Ht-1">
+          <mxGeometry x="630" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
