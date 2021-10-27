@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T02:47:34.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9yQYMFdmU1BTF86-kRKj" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-27T02:55:52.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="d72XxM5p2K9Qm7ho_r36" version="15.5.9" type="github" pages="2">
   <diagram id="HdQJ65nLpLj7tShVSawH" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="_0cVOnFLs2fZEv1zGHlr-31" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mvlscJBaSNZ3kC6scpqC-1">
           <mxGeometry x="410" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0cVOnFLs2fZEv1zGHlr-32" value="测试结果画面什么时候清除?&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;一般是电池离线后清除&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="mvlscJBaSNZ3kC6scpqC-1">
+          <mxGeometry x="860" y="525" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
