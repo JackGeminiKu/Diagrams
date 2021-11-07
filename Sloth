@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T08:07:08.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.6.1" etag="iG-fo_Usl7kdr8e4tImJ" type="github"><diagram id="TeWahaaCVlxS9JAMIQah">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-07T09:21:26.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VJvPCx-4_fzrAg6BkwTq" version="14.6.1" type="github">
+  <diagram id="TeWahaaCVlxS9JAMIQah" name="Page-1">
+    <mxGraphModel dx="1422" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XxeiKL2wWQ3M4lsePq7M-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-1" value="点击&quot;开始扫描&quot;按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-2" value="Atr_FullScanStart()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XxeiKL2wWQ3M4lsePq7M-5" target="XxeiKL2wWQ3M4lsePq7M-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-5" value="事件: &lt;br&gt;AUCTION_ITEM_LIST_UPDATE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-6" value="Atr_OnAuctionUpdate()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-8" value="Atr_FullScanBeginAnalyzePhase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XxeiKL2wWQ3M4lsePq7M-9" target="XxeiKL2wWQ3M4lsePq7M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-9" value="gAtr_FullScanState == ATR_FS_STARTED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XxeiKL2wWQ3M4lsePq7M-11" target="XxeiKL2wWQ3M4lsePq7M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-11" value="gAtr_FullScanState = ATR_FS_ANALYZING" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XxeiKL2wWQ3M4lsePq7M-12" value="Atr_FullScanAnalyze()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="400" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
