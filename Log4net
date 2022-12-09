@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T02:24:37.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vPv1cusEkAQD3qrEIX1s" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-09T02:43:32.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6I8VzsUAhS3fZHSjixwh" version="20.5.3" type="github" pages="5">
   <diagram id="uQuW7_7J-WIbD4phnyNN" name="ConfigureRepository">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -243,6 +243,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1H6869LpqL4FTcMa09Xu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1H6869LpqL4FTcMa09Xu-13" target="1H6869LpqL4FTcMa09Xu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-13" value="RollingFileAppender" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="374" width="140" height="52" as="geometry">
+            <mxRectangle x="130" y="90" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1H6869LpqL4FTcMa09Xu-17" target="1H6869LpqL4FTcMa09Xu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-17" value="FileAppender" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="257" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1H6869LpqL4FTcMa09Xu-23" target="1H6869LpqL4FTcMa09Xu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-23" value="TextWriterAppender" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="143" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="1H6869LpqL4FTcMa09Xu-28" value="AppendeerSkeketon" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="52" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
