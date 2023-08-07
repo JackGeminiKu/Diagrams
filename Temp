@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T01:09:06.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="SkhxTRJ5ozHnqjT1dkSB" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T09:12:22.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="d_94opzWz4IReRX9N9F3" version="21.5.2" type="github" pages="2">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
@@ -78,6 +78,72 @@
         </mxCell>
         <mxCell id="aChSmr_rI4j32_aa5rW4-26" value="HeaderedItemsControl" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="455" y="1160" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EQn2f4OXXUO6trIP_V-q" name="Page-2">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ul-S6TDs27TikzD6o2QS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-2" target="ul-S6TDs27TikzD6o2QS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="398" />
+              <mxPoint x="405" y="398" />
+              <mxPoint x="405" y="100" />
+              <mxPoint x="550" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-2" value="從836校正資料庫中獲取校正時間" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="318" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-3" target="ul-S6TDs27TikzD6o2QS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-3" target="ul-S6TDs27TikzD6o2QS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-3" value="836校正時間已過期?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-4" value="關閉程式,&amp;nbsp;通知TE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-5" target="ul-S6TDs27TikzD6o2QS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-5" target="ul-S6TDs27TikzD6o2QS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-5" value="836是否位於黑名單?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-7" value="關閉程式,&amp;nbsp;通知TE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-13" value="正常測試" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="414" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-20" target="ul-S6TDs27TikzD6o2QS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-20" value="打開測試程式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="114" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="ul-S6TDs27TikzD6o2QS-21" target="ul-S6TDs27TikzD6o2QS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-21" value="讀取836模組ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="214" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-31" value="打開測試程式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="114" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-32" value="讀取836模組ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="214" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
