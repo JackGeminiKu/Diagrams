@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T09:12:22.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="d_94opzWz4IReRX9N9F3" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-09T09:37:50.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="VJzZTj_MrWIXRMlEgFlh" version="21.5.2" type="github" pages="2">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EQn2f4OXXUO6trIP_V-q" name="Page-2">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,6 +144,18 @@
         </mxCell>
         <mxCell id="ul-S6TDs27TikzD6o2QS-32" value="讀取836模組ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="214" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-33" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-34" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-35" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="214" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ul-S6TDs27TikzD6o2QS-36" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
