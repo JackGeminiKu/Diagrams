@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T07:13:46.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="hIxDoFheNjY-BbRb212X" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T07:27:30.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="V8asYsl_VpYOsjEqcPcP" version="21.7.1" type="github">
   <diagram name="Page-1" id="lvIZGLVvvXv1vzoryOAr">
     <mxGraphModel dx="2603" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="wgirAUOfnIujtbKJszdd-6" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wgirAUOfnIujtbKJszdd-7" value="显示设置页面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wgirAUOfnIujtbKJszdd-7" value="显示设置页面&lt;br&gt;(机种,&amp;nbsp;站别,&amp;nbsp;线别...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
