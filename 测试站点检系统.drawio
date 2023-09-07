@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:27:12.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="ENI1X0Z12oGkIP4QyMEE" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T09:32:27.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="zdlClX5yDwL63thwDw2E" version="21.7.1" type="github">
   <diagram name="Page-1" id="lvIZGLVvvXv1vzoryOAr">
-    <mxGraphModel dx="2203" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1963" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,8 +65,11 @@
         <mxCell id="KzqAaI5GSfQP1Tt20zEa-1" value="生成的时候带版本信息&lt;br&gt;&lt;br&gt;读取的时候不用管版本信息,&amp;nbsp;这样可以同时显示不同版本的表单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="555" y="320" width="335" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KzqAaI5GSfQP1Tt20zEa-2" value="是否允许存在多份点检表?&lt;br&gt;不同版本的." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="KzqAaI5GSfQP1Tt20zEa-2" value="是否允许存在多份点检表?&lt;br&gt;不同版本的.&lt;br&gt;&lt;br&gt;不允许,&amp;nbsp;难道要点检2次?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="220" y="540" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqAaI5GSfQP1Tt20zEa-3" value="版本如何切换?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
