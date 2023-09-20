@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T12:47:53.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="abLsMcI4kv7JThIBuEqy" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-20T13:47:58.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="Mwbo_m8w4GIQyPIBgZ9j" version="21.7.5" type="github" pages="4">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
     <mxGraphModel dx="2066" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
@@ -304,6 +304,24 @@
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-37" value="SortedList&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1010" y="870" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-38" value="SortedList" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="415" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-39" value="ReadOnlyCollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="980" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-41" value="IList&amp;lt;T&amp;gt;, ICollection&amp;lt;T&amp;gt;, IEnumerable&amp;lt;T&amp;gt;, IList, ICollection, IEnumerable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1000" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-42" value="HashTable" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-43" value="Dictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="780" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-44" value="SortedDictionary&amp;lt;T,V&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="870" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
