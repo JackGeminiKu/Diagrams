@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T02:20:37.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="xQbUSqf_FA0w1uVHraEb" version="21.7.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-20T12:14:07.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="Z067b6KjfcMde5x6qcg8" version="21.7.5" type="github" pages="4">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
-    <mxGraphModel dx="1674" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EQn2f4OXXUO6trIP_V-q" name="Page-2">
-    <mxGraphModel dx="1674" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="EQn2f4OXXUO6trIP_V-q" name="836模组ID">
+    <mxGraphModel dx="2066" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,6 +203,35 @@
         </mxCell>
         <mxCell id="j1GyHfVh3HDJe-JgRXMJ-7" value="ItemsControl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce8cf;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1CmqJkuOdPFV_s5V5Whv" name="C#集合">
+    <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-2" target="LpQDD_TfOtjOQuGdsODg-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-2" target="LpQDD_TfOtjOQuGdsODg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-2" value="&lt;b&gt;ICollection&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-3" value="&lt;b&gt;IEnumerable&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-7" value="&lt;b&gt;IList&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpQDD_TfOtjOQuGdsODg-8" value="&lt;b&gt;IDictionary&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="760" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
