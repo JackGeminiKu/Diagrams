@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T12:55:15.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="MUerb9IUxU3LwthyckhR" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-21T13:01:44.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="4jCNZYnroAfm5Oo8fs96" version="21.7.5" type="github" pages="4">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
     <mxGraphModel dx="2306" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1CmqJkuOdPFV_s5V5Whv" name="C#集合">
-    <mxGraphModel dx="2066" dy="1153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,15 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-2" value="&lt;b&gt;ICollection&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="330" y="300" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9b2fjoL2m6MAj1jGnPS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="605" y="120" />
-              <mxPoint x="385" y="120" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="380" y="300" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-21">
           <mxGeometry relative="1" as="geometry">
@@ -240,35 +232,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q9b2fjoL2m6MAj1jGnPS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="120" />
+              <mxPoint x="435" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-3" value="&lt;b&gt;IEnumerable&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="550" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-7" value="&lt;b&gt;IList&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-8" value="&lt;b&gt;IDictionary&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="415" y="400" width="110" height="50" as="geometry" />
+          <mxGeometry x="455" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-11" value="Array" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="240" y="510" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-12" value="ArrayList" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="240" y="570" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="570" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-13" value="CollectionBase" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="240" y="630" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-14" value="Stack" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="70" y="400" width="110" height="50" as="geometry" />
+          <mxGeometry x="150" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-16" value="index集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="480" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-17" value="key-value集合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="415" y="480" width="100" height="30" as="geometry" />
+          <mxGeometry x="455" y="480" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-18" value="DictionaryBase" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="415" y="630" width="110" height="50" as="geometry" />
+          <mxGeometry x="455" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-20" target="LpQDD_TfOtjOQuGdsODg-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-20" value="ICollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="785" y="305" width="110" height="50" as="geometry" />
+          <mxGeometry x="785" y="300" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-21" target="LpQDD_TfOtjOQuGdsODg-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -305,73 +305,67 @@
           <mxGeometry x="785" y="205" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-24" value="IList&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="630" y="395" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-26" value="IDictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="785" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-30" value="ISet&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="940" y="395" width="110" height="50" as="geometry" />
+          <mxGeometry x="920" y="395" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-32" target="LpQDD_TfOtjOQuGdsODg-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-32" value="IReadOnlyCollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="305" width="150" height="50" as="geometry" />
+          <mxGeometry x="1080" y="300" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-34" value="IReadOnlyList&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="395" width="150" height="50" as="geometry" />
+          <mxGeometry x="1080" y="395" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-35" value="List&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="850" y="950" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LpQDD_TfOtjOQuGdsODg-36" value="&lt;pre style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top; text-align: left;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/ilist.cs.html#b19f71a84062554b&quot;&gt;IList&lt;/a&gt;&amp;lt;T&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/ilist.cs.html#5d74f6adfeaf6c7d&quot;&gt;IList&lt;/a&gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/ireadonlylist.cs.html#b040fb780bdd59f4&quot;&gt;IReadOnlyList&lt;/a&gt;&amp;lt;&lt;span style=&quot;cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r0 r t&quot;&gt;T&lt;/span&gt;&amp;gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="970" width="320" height="30" as="geometry" />
+          <mxGeometry x="650" y="970" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-38" value="SortedList" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="415" y="570" width="110" height="50" as="geometry" />
+          <mxGeometry x="455" y="570" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-39" value="ReadOnlyCollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="850" y="1020" width="150" height="50" as="geometry" />
+          <mxGeometry x="830" y="970" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-41" value="&lt;pre style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top; text-align: left;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/ilist.cs.html#b19f71a84062554b&quot;&gt;IList&lt;/a&gt;&amp;lt;T&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/ilist.cs.html#5d74f6adfeaf6c7d&quot;&gt;IList&lt;/a&gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/ireadonlylist.cs.html#b040fb780bdd59f4&quot;&gt;IReadOnlyList&lt;/a&gt;&amp;lt;&lt;span style=&quot;cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r0 r t&quot;&gt;T&lt;/span&gt;&amp;gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1040" width="320" height="30" as="geometry" />
+          <mxGeometry x="1010" y="990" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-42" value="HashTable" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="415" y="510" width="110" height="50" as="geometry" />
+          <mxGeometry x="455" y="510" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-43" value="Dictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="850" y="798" width="150" height="50" as="geometry" />
+          <mxGeometry x="650" y="890" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-44" value="SortedDictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="850" y="870" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9b2fjoL2m6MAj1jGnPS-2" value="&lt;pre style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/idictionary.cs.html#20343df0c96b629b&quot;&gt;IDictionary&lt;/a&gt;&amp;lt;K, V&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/idictionary.cs.html#ea6b36745fa51e08&quot;&gt;IDictionary&lt;/a&gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/system/collections/generic/ireadonlydictionary.cs.html#f786bcc5e7b69c7d&quot;&gt;IReadOnlyDictionary&lt;/a&gt;&amp;lt;&lt;font color=&quot;#2b91af&quot;&gt;K, V&lt;/font&gt;&amp;gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="818" width="520" height="30" as="geometry" />
+          <mxGeometry x="830" y="890" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-3" value="&lt;pre style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#20343df0c96b629b&quot;&gt;IDictionary&lt;/a&gt;&amp;lt;&lt;font color=&quot;#2b91af&quot;&gt;K, V&lt;/font&gt;&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#ea6b36745fa51e08&quot;&gt;IDictionary&lt;/a&gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#f786bcc5e7b69c7d&quot;&gt;IReadOnlyDictionary&lt;/a&gt;&amp;lt;&lt;font color=&quot;#2b91af&quot;&gt;K&lt;/font&gt;, &lt;font color=&quot;#2b91af&quot;&gt;V&lt;/font&gt;&amp;gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="890" width="520" height="30" as="geometry" />
+          <mxGeometry x="1010" y="910" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-4" value="IReadOnlyDictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="400" width="160" height="50" as="geometry" />
+          <mxGeometry x="1320" y="395" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9b2fjoL2m6MAj1jGnPS-5" target="Q9b2fjoL2m6MAj1jGnPS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-5" value="IReadOnlyCollection&amp;lt;KeyValuePair&amp;lt;K, V&amp;gt;&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="305" width="250" height="50" as="geometry" />
+          <mxGeometry x="1275" y="300" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-8" value="HashSet&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="850" y="700" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="730" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-9" value="&lt;pre style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/System/A.html#24ab7bbfbae81f24&quot;&gt;ISet&lt;/a&gt;&amp;lt;&lt;span style=&quot;cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r0 r t&quot;&gt;T&lt;/span&gt;&amp;gt;, &lt;a style=&quot;background-color: initial; border-color: var(--border-color); color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#a9bf1395d3addc77&quot;&gt;ICollection&lt;/a&gt;&amp;lt;T&amp;gt;, &lt;a style=&quot;background-color: initial; white-space-collapse: collapse; color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#7103bd3a82c9f352&quot;&gt;IReadOnlyCollection&lt;/a&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse; cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r0 r t&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space-collapse: collapse;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="980" y="720" width="440" height="30" as="geometry" />
+          <mxGeometry x="780" y="750" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-12" value="SortedSet" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="850" y="620" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="810" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-13" value="&lt;pre style=&quot;text-align: left; font-family: Consolas, &amp;quot;Courier New&amp;quot;, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Lucida Console&amp;quot;, monospace; font-size: medium; line-height: 20px; margin-top: 0px; margin-bottom: 0px; vertical-align: top;&quot; id=&quot;code&quot;&gt;&lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/System/compmod/system/collections/generic/iset.cs.html#24ab7bbfbae81f24&quot;&gt;ISet&lt;/a&gt;&amp;lt;T&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#a9bf1395d3addc77&quot;&gt;ICollection&lt;/a&gt;&amp;lt;&lt;span style=&quot;cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r2 r t&quot;&gt;T&lt;/span&gt;&amp;gt;, &lt;a style=&quot;color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#7103bd3a82c9f352&quot;&gt;IReadOnlyCollection&lt;/a&gt;&amp;lt;&lt;span style=&quot;cursor: pointer; border-width: 1px; border-color: ivory; border-style: solid; color: rgb(43, 145, 175);&quot; class=&quot;r2 r t&quot;&gt;T&lt;/span&gt;&amp;gt;, &lt;a style=&quot;background-color: initial; border-color: var(--border-color); color: rgb(43, 145, 175); text-decoration-line: none;&quot; class=&quot;t&quot; href=&quot;https://referencesource.microsoft.com/mscorlib/A.html#cde8022b6e680e40&quot;&gt;ICollection&lt;/a&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="970" y="640" width="560" height="30" as="geometry" />
+          <mxGeometry x="770" y="830" width="560" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
