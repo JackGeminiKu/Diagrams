@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T12:27:11.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="SCUgOgLyi6fR-d5j1n5v" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-21T12:27:52.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="KIKJD7iBKuWOZ6U4Wtl_" version="21.7.5" type="github" pages="4">
   <diagram id="c73allD1q5fhhPJuLItH" name="WPF6类控件的派生关系">
     <mxGraphModel dx="2306" dy="1153" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCE8CF" math="0" shadow="0">
       <root>
@@ -224,24 +224,24 @@
         <mxCell id="LpQDD_TfOtjOQuGdsODg-2" value="&lt;b&gt;ICollection&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="330" y="300" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpQDD_TfOtjOQuGdsODg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-2" edge="1">
+        <mxCell id="Q9b2fjoL2m6MAj1jGnPS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="170" />
-              <mxPoint x="385" y="170" />
+              <mxPoint x="725" y="120" />
+              <mxPoint x="385" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpQDD_TfOtjOQuGdsODg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-21" edge="1">
+        <mxCell id="Q9b2fjoL2m6MAj1jGnPS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-3" target="LpQDD_TfOtjOQuGdsODg-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="170" />
-              <mxPoint x="830" y="170" />
+              <mxPoint x="725" y="120" />
+              <mxPoint x="940" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-3" value="&lt;b&gt;IEnumerable&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="560" y="100" width="110" height="50" as="geometry" />
+          <mxGeometry x="670" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-7" value="&lt;b&gt;IList&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="110" height="50" as="geometry" />
@@ -273,8 +273,8 @@
         <mxCell id="LpQDD_TfOtjOQuGdsODg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-20" target="LpQDD_TfOtjOQuGdsODg-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="370" />
-              <mxPoint x="675" y="370" />
+              <mxPoint x="940" y="367.5" />
+              <mxPoint x="785" y="367.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,13 +284,13 @@
         <mxCell id="LpQDD_TfOtjOQuGdsODg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LpQDD_TfOtjOQuGdsODg-20" target="LpQDD_TfOtjOQuGdsODg-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="370" />
-              <mxPoint x="985" y="370" />
+              <mxPoint x="940" y="367.5" />
+              <mxPoint x="1095" y="367.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-20" value="ICollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="775" y="305" width="110" height="50" as="geometry" />
+          <mxGeometry x="885" y="302.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpQDD_TfOtjOQuGdsODg-21" target="LpQDD_TfOtjOQuGdsODg-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -302,25 +302,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-21" value="IEnumerable&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="775" y="205" width="110" height="50" as="geometry" />
+          <mxGeometry x="885" y="202.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-24" value="IList&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="620" y="395" width="110" height="50" as="geometry" />
+          <mxGeometry x="730" y="392.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-26" value="IDictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="775" y="395" width="110" height="50" as="geometry" />
+          <mxGeometry x="885" y="392.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-30" value="ISet&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="930" y="395" width="110" height="50" as="geometry" />
+          <mxGeometry x="1040" y="392.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpQDD_TfOtjOQuGdsODg-32" target="LpQDD_TfOtjOQuGdsODg-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-32" value="IReadOnlyCollection&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="305" width="150" height="50" as="geometry" />
+          <mxGeometry x="1200" y="302.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-34" value="IReadOnlyList&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="395" width="150" height="50" as="geometry" />
+          <mxGeometry x="1200" y="392.5" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpQDD_TfOtjOQuGdsODg-35" value="List&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10" y="960" width="110" height="50" as="geometry" />
@@ -353,13 +353,13 @@
           <mxGeometry x="180" y="890" width="520" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-4" value="IReadOnlyDictionary&amp;lt;K,V&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="400" width="160" height="50" as="geometry" />
+          <mxGeometry x="1445" y="397.5" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9b2fjoL2m6MAj1jGnPS-5" target="Q9b2fjoL2m6MAj1jGnPS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-5" value="IReadOnlyCollection&amp;lt;KeyValuePair&amp;lt;K, V&amp;gt;&amp;gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="305" width="250" height="50" as="geometry" />
+          <mxGeometry x="1400" y="302.5" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q9b2fjoL2m6MAj1jGnPS-8" value="HashSet&amp;lt;T&amp;gt;" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="10" y="710" width="110" height="50" as="geometry" />
