@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T03:25:53.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="iSXq2QC7ABm-4ql4ampf" version="24.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:28:48.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="xG5DoGF0Raj4yX-2TzdC" version="24.2.5" type="github" pages="4">
   <diagram name="L720-191212软体" id="X9fJADX9LJifZb06UK0e">
-    <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,15 +24,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="olRpKE3KkzD1WeG6cJQ4" name="PollingThreads">
-    <mxGraphModel dx="794" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m49zQNtqyIbGd5rm3j28-1" value="DoActionByName()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m49zQNtqyIbGd5rm3j28-1" value="DoActionByName()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m49zQNtqyIbGd5rm3j28-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="370" width="80" height="80" as="geometry" />
+        <mxCell id="m49zQNtqyIbGd5rm3j28-3" value="CommandStatus == &quot;LM&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="370" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-1" value="CommandStatus == &quot;V96&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
