@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T03:40:42.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zfVJ3hdPXg7JMCkBuuFX" version="24.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:41:26.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="UXOh-_v1BdtVi7-VhAmV" version="24.2.5" type="github" pages="4">
   <diagram name="L720-191212软体" id="X9fJADX9LJifZb06UK0e">
     <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-14" value="CommandStatus" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-22" target="a6tnfe31DXnCJ3vp4eLZ-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-22" value="转态最后一笔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -59,16 +62,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-30" value="AA-8A计数逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-31" value="300ms延时逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-34" target="a6tnfe31DXnCJ3vp4eLZ-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-34" value="&lt;div&gt;读取10ms资料&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-35" target="a6tnfe31DXnCJ3vp4eLZ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-35" value="&lt;div&gt;读取100ms资料&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-36" target="a6tnfe31DXnCJ3vp4eLZ-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-36" value="AA-81: 读取程式执行预存资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
