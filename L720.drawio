@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T03:40:11.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="8kfab-cBKwIuLnIhRn6X" version="24.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:40:42.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zfVJ3hdPXg7JMCkBuuFX" version="24.2.5" type="github" pages="4">
   <diagram name="L720-191212软体" id="X9fJADX9LJifZb06UK0e">
     <mxGraphModel dx="794" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-23" target="a6tnfe31DXnCJ3vp4eLZ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a6tnfe31DXnCJ3vp4eLZ-23" value="AA-80..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-26" value="&quot;LM&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
