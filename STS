@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T03:29:38.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eeKNe2EjzORh6exA_NMN" version="15.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-29T06:13:48.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="FNVhzY8S99yOEAeO396E" version="24.2.7" type="github" pages="5">
   <diagram id="HdQJ65nLpLj7tShVSawH" name="Page-1">
-    <mxGraphModel dx="782" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,6 +283,29 @@
         </mxCell>
         <mxCell id="bpkqyRVBsqgIjLrHaD8Q-11" value="Q1:&amp;nbsp;是否弹窗,&amp;nbsp;不弹!&lt;br&gt;&lt;br&gt;Q2:&amp;nbsp;是否显示Fail&lt;br&gt;&lt;br&gt;Q3:&amp;nbsp;前面的Log项目Fail,&amp;nbsp;是否要中断后面的Log项目的测试?&lt;br&gt;&lt;br&gt;各个Log项目之间是独立的,&amp;nbsp;如果前面的Log项目Fail了,&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="bpkqyRVBsqgIjLrHaD8Q-1">
           <mxGeometry x="20" y="-30" width="550" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2HLIwNnVtPEvxbFpoVh_" name="第 5 页">
+    <mxGraphModel dx="1034" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-3" value="Simplo.dll" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-4" value="Simplo.Test.Batteries.dll" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-5" value="&lt;div&gt;Simplo.Test.Devices.dll&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-6" value="&lt;div&gt;Simplo.Test.Items.dll&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="504.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-9" value="SimploTestSudio.exe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
