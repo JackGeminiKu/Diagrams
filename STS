@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T06:43:13.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="LgoFT7zb-CP03vD3jaif" version="24.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-30T06:43:34.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="RKMHpaea11CQH5cKQI5w" version="24.2.7" type="github" pages="5">
   <diagram id="HdQJ65nLpLj7tShVSawH" name="Page-1">
     <mxGraphModel dx="1034" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,10 +314,10 @@
           <mxGeometry x="235" y="335" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IUOQIBuWokrOKCwPRFmf-11" value="Simplo.Log.dll" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="5" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IUOQIBuWokrOKCwPRFmf-12" value="Simplo.Mis.dll" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IUOQIBuWokrOKCwPRFmf-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="60" height="30" as="geometry" />
