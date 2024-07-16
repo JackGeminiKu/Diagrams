@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T01:56:15.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="wAWoG0C-A2l9Lcl8NkVJ" version="24.6.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-16T01:57:36.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="FC5pDvSRrENds21k4soq" version="24.6.5" type="github" pages="5">
   <diagram id="HdQJ65nLpLj7tShVSawH" name="Page-1">
     <mxGraphModel dx="1034" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,13 +295,13 @@
         <mxCell id="IUOQIBuWokrOKCwPRFmf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-660" y="140" width="600" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IUOQIBuWokrOKCwPRFmf-20" value="Base" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-20" value="Base" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IUOQIBuWokrOKCwPRFmf-21" value="&lt;div&gt;Test&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-21" value="&lt;div&gt;Test&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="140" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IUOQIBuWokrOKCwPRFmf-22" value="STS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-22" value="STS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IUOQIBuWokrOKCwPRFmf-24" value="Simplo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
