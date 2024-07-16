@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T06:21:28.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="EOycI2wb0_MJC5w9hsxs" version="24.4.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-16T01:50:45.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="rYwAOqn_5p-gDredBPWm" version="24.5.5" type="github" pages="5">
   <diagram id="HdQJ65nLpLj7tShVSawH" name="Page-1">
     <mxGraphModel dx="1034" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2HLIwNnVtPEvxbFpoVh_" name="Dll 2.0">
-    <mxGraphModel dx="1861" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,10 +307,10 @@
         <mxCell id="IUOQIBuWokrOKCwPRFmf-24" value="Simplo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-660" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IUOQIBuWokrOKCwPRFmf-25" value="Simplo.Log" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-25" value="Simplo.Log" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-460" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IUOQIBuWokrOKCwPRFmf-26" value="Simplo.Mis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IUOQIBuWokrOKCwPRFmf-26" value="Simplo.Mis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-260" y="300" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IUOQIBuWokrOKCwPRFmf-27" value="SimploTestStudio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -328,7 +328,7 @@
         <mxCell id="IUOQIBuWokrOKCwPRFmf-32" value="Simplo.Test.Items" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="140" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eBmePBTrM46IDIOfo3aH-1" value="&lt;div&gt;新增Simplo.Test.dll, Simplo.dll中关于Test的代码放到这个新的dll中!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eBmePBTrM46IDIOfo3aH-1" value="&lt;div&gt;新增Simplo.Test.dll, Simplo.dll中关于Test的代码放到这个新的dll中!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="440" width="400" height="80" as="geometry" />
         </mxCell>
       </root>
