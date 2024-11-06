@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-30" value="AA-8A计数逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-31" value="300ms延时逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6tnfe31DXnCJ3vp4eLZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a6tnfe31DXnCJ3vp4eLZ-34" target="a6tnfe31DXnCJ3vp4eLZ-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UgrM0C-vkPp_p8UK-cKQ-15" value="ProcessData()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="625" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
