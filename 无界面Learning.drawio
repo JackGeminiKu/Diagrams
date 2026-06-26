@@ -295,19 +295,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-136" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="接入电池" vertex="1">
-          <mxGeometry height="60" width="100" x="1890" y="110" as="geometry" />
+          <mxGeometry height="60" width="100" x="1890" y="51" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;strokeWidth=3;" value="读电池内码流程" vertex="1">
-          <mxGeometry height="30" width="130" x="1720" y="119" as="geometry" />
+          <mxGeometry height="30" width="130" x="1720" y="60" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=14;" value="&lt;div&gt;&lt;b&gt;[ 0x21命令 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Volchok&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Volchok&lt;/div&gt;&lt;div&gt;Veridian&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&#x9;Veridian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;BQ40Z651&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;block 0x76&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;????&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;BQ20Z451&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x76&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;???&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;[ 00 -&amp;gt; 0x0001 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;bq27546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Block B&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;0x0546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="174.5" width="390" x="2120" y="165.5" as="geometry" />
+          <mxGeometry height="174.5" width="390" x="2120" y="106.5" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-7" edge="1" parent="1" source="PsBZDfwHha2lWDHOalyY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PsBZDfwHha2lWDHOalyY-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="读Block 0x21" vertex="1">
-          <mxGeometry height="60" width="120" x="1880" y="225" as="geometry" />
+          <mxGeometry height="60" width="120" x="1880" y="166" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-27" edge="1" parent="1" source="PsBZDfwHha2lWDHOalyY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PsBZDfwHha2lWDHOalyY-26" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -315,18 +315,18 @@
         <mxCell id="PsBZDfwHha2lWDHOalyY-35" edge="1" parent="1" source="PsBZDfwHha2lWDHOalyY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PsBZDfwHha2lWDHOalyY-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1820" y="380" />
+              <mxPoint x="1820" y="321" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;返回&quot;Volchok&quot;&lt;/div&gt;&lt;div&gt;或&quot;Veridian&quot;?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="1880" y="340" as="geometry" />
+          <mxGeometry height="80" width="120" x="1880" y="281" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="读block 0x91" vertex="1">
-          <mxGeometry height="60" width="120" x="1760" y="449" as="geometry" />
+          <mxGeometry height="60" width="120" x="1760" y="390" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="1820" y="349" as="geometry" />
+          <mxGeometry height="30" width="60" x="1820" y="290" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-29" edge="1" parent="1" source="PsBZDfwHha2lWDHOalyY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PsBZDfwHha2lWDHOalyY-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -335,22 +335,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;返回&quot;bq40z651&quot;&lt;/div&gt;&lt;div&gt;或&quot;bq20z451&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="130" x="2005" y="429" as="geometry" />
+          <mxGeometry height="80" width="130" x="2005" y="370" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-28" parent="1" style="whiteSpace=wrap;html=1;" value="读取block 0x76" vertex="1">
-          <mxGeometry height="60" width="120" x="1880" y="556" as="geometry" />
+          <mxGeometry height="60" width="120" x="1880" y="497" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="1950" y="441" as="geometry" />
+          <mxGeometry height="30" width="60" x="1950" y="382" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-31" parent="1" style="whiteSpace=wrap;html=1;" value="读Block B" vertex="1">
-          <mxGeometry height="60" width="120" x="2140" y="554" as="geometry" />
+          <mxGeometry height="60" width="120" x="2140" y="495" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
-          <mxGeometry height="30" width="60" x="2005" y="349" as="geometry" />
+          <mxGeometry height="30" width="60" x="2005" y="290" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
-          <mxGeometry height="30" width="60" x="2130" y="439" as="geometry" />
+          <mxGeometry height="30" width="60" x="2130" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
