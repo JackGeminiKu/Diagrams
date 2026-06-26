@@ -218,13 +218,13 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-104" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-103" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提示OP量厚度" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OP量厚度" vertex="1">
           <mxGeometry height="60" width="120" x="897.5" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="897.5" y="830" as="geometry" />
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="含" vertex="1">
+          <mxGeometry height="30" width="60" x="907.5" y="827" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不含" vertex="1">
           <mxGeometry height="30" width="60" x="1060" y="740" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-101" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
