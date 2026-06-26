@@ -153,10 +153,10 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提示OP量厚度" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;含&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="800" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-97" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-81" value="">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-105" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-88" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="自动跑下一个cycle区间" vertex="1">
@@ -199,26 +199,8 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="1040" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不含" vertex="1">
           <mxGeometry height="30" width="60" x="907.5" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-98" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-88" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-100" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-83" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-81" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="下一个区间跑完了?" vertex="1">
-          <mxGeometry height="80" width="140" x="887.5" y="739" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-83" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="结束" vertex="1">
-          <mxGeometry height="60" width="100" x="907.5" y="889" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="887.5" y="839" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
-          <mxGeometry height="30" width="60" x="1027.5" y="749" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-92" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-91" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -231,25 +213,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-88" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;刚跑完的learning档名字中&lt;/div&gt;&lt;div&gt;含有量厚度关键字?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="205" x="1107.5" y="739" as="geometry" />
+          <mxGeometry height="80" width="205" x="855" y="730" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-104" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-103" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提示OP量厚度" vertex="1">
-          <mxGeometry height="60" width="120" x="1150" y="939" as="geometry" />
+          <mxGeometry height="60" width="120" x="897.5" y="870" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="1160" y="839" as="geometry" />
+          <mxGeometry height="30" width="60" x="897.5" y="830" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
-          <mxGeometry height="30" width="60" x="1160" y="699" as="geometry" />
+          <mxGeometry height="30" width="60" x="1060" y="740" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-101" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
           <mxGeometry height="60" width="100" x="690" y="620" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-103" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
-          <mxGeometry height="60" width="100" x="1160" y="1059" as="geometry" />
+          <mxGeometry height="60" width="100" x="907.5" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
