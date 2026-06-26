@@ -160,9 +160,6 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
           <mxGeometry height="30" width="60" x="555" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-52" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-51" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-129" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" target="qRa3hty1LtdxE0hFs_0w-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -174,17 +171,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PsBZDfwHha2lWDHOalyY-38" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PsBZDfwHha2lWDHOalyY-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-49" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;刚跑完的learning档名字中&lt;/div&gt;&lt;div&gt;含有量厚度关键字?&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="205" x="590" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-102" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-101" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="提示OP量厚度" vertex="1">
-          <mxGeometry height="60" width="120" x="405" y="470" as="geometry" />
-        </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;含&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="535" y="470" as="geometry" />
+          <mxGeometry height="30" width="60" x="535" y="465" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-130" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-88" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -235,9 +229,6 @@
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不含" vertex="1">
           <mxGeometry height="30" width="60" x="1331" y="289" as="geometry" />
-        </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-101" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
-          <mxGeometry height="60" width="100" x="415" y="600" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-103" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
           <mxGeometry height="60" width="100" x="1525" y="389" as="geometry" />
@@ -355,6 +346,9 @@
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;fontColor=light-dark(#ffffff, #ededed);strokeWidth=3;labelBackgroundColor=#000000;" value="主流程" vertex="1">
           <mxGeometry height="30" width="30" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PsBZDfwHha2lWDHOalyY-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="调试OP量厚度" vertex="1">
+          <mxGeometry height="60" width="100" x="430" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
