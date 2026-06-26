@@ -135,7 +135,7 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="当前cycle区间跑完了?" vertex="1">
           <mxGeometry height="80" width="160" x="877" y="179" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="手动接续" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="手动接续" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="291" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="没跑完" vertex="1">
@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="跑start learning档" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="跑start learning档" vertex="1">
           <mxGeometry height="60" width="120" x="410" y="290" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
@@ -177,7 +177,7 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-130" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-88" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="自动跑下一个cycle区间" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="自动跑下一个cycle区间" vertex="1">
           <mxGeometry height="60" width="120" x="1321" y="91" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
@@ -194,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="跑cycle1 learning档" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="跑cycle1 learning档" vertex="1">
           <mxGeometry height="60" width="120" x="665" y="290" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
@@ -222,7 +222,7 @@
           <mxGeometry height="30" width="60" x="1525" y="238" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="不含" vertex="1">
-          <mxGeometry height="30" width="60" x="1331" y="289" as="geometry" />
+          <mxGeometry height="30" width="60" x="1321" y="281" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-103" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="OP接入电池" vertex="1">
           <mxGeometry height="60" width="100" x="1525" y="389" as="geometry" />
@@ -230,20 +230,19 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-118" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-117" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-135" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qRa3hty1LtdxE0hFs_0w-55">
+        <mxCell id="PsBZDfwHha2lWDHOalyY-42" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qRa3hty1LtdxE0hFs_0w-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1240" y="379" />
-              <mxPoint x="1240" y="119" />
+              <mxPoint x="1250" y="379" />
+              <mxPoint x="1250" y="121" />
             </Array>
-            <mxPoint x="1250" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-107" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="所有cycle区间都跑完了?" vertex="1">
           <mxGeometry height="80" width="151" x="1305.5" y="339" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="没有都跑完" vertex="1">
-          <mxGeometry height="30" width="60" x="1245.5" y="386" as="geometry" />
+          <mxGeometry height="30" width="65.5" x="1240" y="380" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-112" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="结束" vertex="1">
           <mxGeometry height="60" width="100" x="1331" y="719" as="geometry" />
@@ -286,8 +285,8 @@
         <mxCell id="PsBZDfwHha2lWDHOalyY-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;strokeWidth=3;labelBackgroundColor=light-dark(#400040, #ededed);fontColor=light-dark(#ffffff, #ededed);fontSize=22;" value="读电池内码流程" vertex="1">
           <mxGeometry height="30" width="30" x="1753" y="99" as="geometry" />
         </mxCell>
-        <mxCell id="PsBZDfwHha2lWDHOalyY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;rounded=0;fontSize=14;labelBackgroundColor=none;" value="&lt;div&gt;&lt;b&gt;[ 0x21命令 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Volchok&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Volchok&lt;/div&gt;&lt;div&gt;Veridian&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&#x9;Veridian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;BQ40Z651&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;block 0x76&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;????&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;BQ20Z451&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x76&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;???&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;[ 00 -&amp;gt; 0x0001 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;bq27546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Block B&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;0x0546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="174.5" width="390" x="2260" y="59" as="geometry" />
+        <mxCell id="PsBZDfwHha2lWDHOalyY-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;rounded=0;fontSize=14;labelBackgroundColor=none;" value="&lt;div&gt;&lt;b&gt;[ 0x21命令 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Volchok&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Volchok&lt;/div&gt;&lt;div&gt;Veridian&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x91&#x9;Veridian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;BQ40Z651&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;block 0x76&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;????&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;BQ20Z451&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;block 0x76&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;???&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码能不能读?&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;[ 00 -&amp;gt; 0x0001 ]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;bq27546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Block B&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;0x0546&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;锁码可以读device name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="174.5" width="470" x="2260" y="59" as="geometry" />
         </mxCell>
         <mxCell id="PsBZDfwHha2lWDHOalyY-7" edge="1" parent="1" source="PsBZDfwHha2lWDHOalyY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PsBZDfwHha2lWDHOalyY-5" value="">
           <mxGeometry relative="1" as="geometry" />
