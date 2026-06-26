@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="跑下一个cycle区间" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="480" as="geometry" />
+          <mxGeometry height="60" width="120" x="680" y="480" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="315" y="570" as="geometry" />
