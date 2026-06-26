@@ -253,7 +253,7 @@
             <mxPoint x="1250" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-107" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="所有cycle都跑完了?" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-107" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="所有cycle区间都跑完了?" vertex="1">
           <mxGeometry height="80" width="151" x="1305.5" y="339" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="没有都跑完" vertex="1">
