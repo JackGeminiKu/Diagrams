@@ -347,7 +347,7 @@
         <mxCell id="PsBZDfwHha2lWDHOalyY-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;fontColor=light-dark(#ffffff, #ededed);strokeWidth=3;labelBackgroundColor=#000000;" value="主流程" vertex="1">
           <mxGeometry height="30" width="30" x="20" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="PsBZDfwHha2lWDHOalyY-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="调试OP量厚度" vertex="1">
+        <mxCell id="PsBZDfwHha2lWDHOalyY-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="提示OP量厚度" vertex="1">
           <mxGeometry height="60" width="100" x="430" y="470" as="geometry" />
         </mxCell>
       </root>
