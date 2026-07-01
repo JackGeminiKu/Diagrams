@@ -712,7 +712,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zEyBER_pH7h-LmyOSWd9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=14;" value="&lt;div&gt;1. Lab条码中含有机种名&amp;amp;温度信息&lt;/div&gt;&lt;div&gt;2. Lab条码中的MP对应对应learning档中的ORT&lt;/div&gt;" vertex="1">
+        <mxCell id="zEyBER_pH7h-LmyOSWd9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=14;" value="&lt;div&gt;1. Lab条码中含有机种名&amp;amp;温度信息&lt;/div&gt;&lt;div&gt;2. Lab条码中的MP对应对应learning档中的ORT&lt;/div&gt;&lt;div&gt;3. NPI阶段如RZ, RF1, RF2对应Lab条码中的什么???&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="490" x="180" y="190" as="geometry" />
         </mxCell>
       </root>
