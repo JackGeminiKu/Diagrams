@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="主流程" id="3HldnIOuQtLrwHUO-1mN">
-    <mxGraphModel dx="1384" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1611" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,11 +707,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fJu1hgGvGcqyrIjy4sEr" name="Learning档匹配逻辑">
+  <diagram id="fJu1hgGvGcqyrIjy4sEr" name="Learning档自动匹配逻辑">
     <mxGraphModel dx="1384" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zEyBER_pH7h-LmyOSWd9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=14;" value="&lt;div&gt;1. Lab条码中含有机种名&amp;amp;温度信息&lt;/div&gt;&lt;div&gt;2. Lab条码中的MP对应对应learning档中的ORT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="490" x="180" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
