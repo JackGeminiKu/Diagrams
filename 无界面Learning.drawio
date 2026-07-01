@@ -46,7 +46,7 @@
         <mxCell id="qRa3hty1LtdxE0hFs_0w-20" edge="1" parent="1" source="qRa3hty1LtdxE0hFs_0w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qRa3hty1LtdxE0hFs_0w-19" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRa3hty1LtdxE0hFs_0w-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="通过MIS API获取Lab条码" vertex="1">
+        <mxCell id="qRa3hty1LtdxE0hFs_0w-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="通过MIS API使用电池内码获取Lab条码" vertex="1">
           <mxGeometry height="60" width="120" x="206" y="426" as="geometry" />
         </mxCell>
         <mxCell id="qRa3hty1LtdxE0hFs_0w-31" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" target="qRa3hty1LtdxE0hFs_0w-30" value="">
@@ -56,7 +56,6 @@
               <mxPoint x="385" y="750" />
               <mxPoint x="385" y="20" />
               <mxPoint x="780" y="20" />
-              <mxPoint x="780" y="59" />
             </Array>
             <mxPoint x="276" y="716" as="sourcePoint" />
             <mxPoint x="793" y="59" as="targetPoint" />
@@ -281,11 +280,20 @@
         <mxCell id="PsBZDfwHha2lWDHOalyY-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="提示OP量厚度" vertex="1">
           <mxGeometry height="60" width="100" x="430" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="2eUiavWlrehDWLgpTi0H-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;所有cycle都跑完的判断逻辑, 分两种:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;裸电池跑到cycle 502算跑完&lt;/div&gt;&lt;div&gt;非裸电池跑到cycle 1002&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="280" x="880" y="586" as="geometry" />
+        </mxCell>
+        <mxCell id="2eUiavWlrehDWLgpTi0H-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1100" y="576" as="sourcePoint" />
+            <mxPoint x="1280" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="读电池内码" id="XtggNMIghFGsVJKhnkbQ">
-    <mxGraphModel dx="1384" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="9dQc-XGaAXm8AKphA9NF-0" />
         <mxCell id="9dQc-XGaAXm8AKphA9NF-1" parent="9dQc-XGaAXm8AKphA9NF-0" />
