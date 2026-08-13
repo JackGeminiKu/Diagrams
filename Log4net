@@ -281,13 +281,8 @@
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-2" parent="1" style="html=1;" value="BufferingAppenderSkeleton" vertex="1">
           <mxGeometry height="50" width="170" x="345" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="A3ZBEPd3pZnk4XFAAH8U-11" edge="1" parent="1" source="o2dgdIWzMbHGM8Dw5TYg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="A3ZBEPd3pZnk4XFAAH8U-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="95" y="110" />
-              <mxPoint x="430" y="110" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="A3ZBEPd3pZnk4XFAAH8U-11" edge="1" parent="1" source="o2dgdIWzMbHGM8Dw5TYg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="A3ZBEPd3pZnk4XFAAH8U-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-5" parent="1" style="html=1;" value="TextWriterAppender" vertex="1">
           <mxGeometry height="50" width="132.5" x="25" y="160" as="geometry" />
@@ -305,7 +300,7 @@
           <mxGeometry height="50" width="140" x="21.25" y="370" as="geometry" />
         </mxCell>
         <mxCell id="A3ZBEPd3pZnk4XFAAH8U-8" parent="1" style="html=1;whiteSpace=wrap;fontStyle=2" value="&lt;div&gt;AppenderSkeleton&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="375" y="10" as="geometry" />
+          <mxGeometry height="50" width="170" x="175" y="10" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-1" parent="1" style="html=1;whiteSpace=wrap;fontStyle=2" value="TextWriter" vertex="1">
           <mxGeometry height="50" width="110" x="760" y="10" as="geometry" />
