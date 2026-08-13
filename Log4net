@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hWfSTXmX0l204ck0qH2w" name="Appender">
-    <mxGraphModel dx="747" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,60 +290,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-5" parent="1" style="html=1;" value="TextWriterAppender" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="160" as="geometry" />
+          <mxGeometry height="50" width="132.5" x="25" y="160" as="geometry" />
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-9" edge="1" parent="1" source="o2dgdIWzMbHGM8Dw5TYg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o2dgdIWzMbHGM8Dw5TYg-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-6" parent="1" style="html=1;" value="FileAppender" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="260" as="geometry" />
+          <mxGeometry height="50" width="140" x="21.25" y="260" as="geometry" />
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-8" edge="1" parent="1" source="o2dgdIWzMbHGM8Dw5TYg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o2dgdIWzMbHGM8Dw5TYg-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o2dgdIWzMbHGM8Dw5TYg-7" parent="1" style="html=1;" value="RollingFileAppender" vertex="1">
-          <mxGeometry height="50" width="110" x="40" y="370" as="geometry" />
+          <mxGeometry height="50" width="140" x="21.25" y="370" as="geometry" />
         </mxCell>
         <mxCell id="A3ZBEPd3pZnk4XFAAH8U-8" parent="1" style="html=1;whiteSpace=wrap;fontStyle=2" value="&lt;div&gt;AppenderSkeleton&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="375" y="10" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-1" parent="1" style="html=1;whiteSpace=wrap;fontStyle=2" value="TextWriter" vertex="1">
-          <mxGeometry height="50" width="110" x="340" y="500" as="geometry" />
+          <mxGeometry height="50" width="110" x="760" y="10" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-2" parent="1" style="html=1;whiteSpace=wrap;fontStyle=2" value="TextWriterAdapter" vertex="1">
-          <mxGeometry height="50" width="110" x="340" y="630" as="geometry" />
+          <mxGeometry height="50" width="110" x="760" y="140" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-3" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;ProtectedCloseTextWriter&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="180" y="760" as="geometry" />
+          <mxGeometry height="50" width="180" x="600" y="270" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-4" parent="1" style="html=1;whiteSpace=wrap;" value="QuietTextWriter" vertex="1">
-          <mxGeometry height="50" width="110" x="470" y="760" as="geometry" />
+          <mxGeometry height="50" width="110" x="890" y="270" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-5" edge="1" parent="1" source="9vl2S8CIzGtwFis-3Bru-2" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="9vl2S8CIzGtwFis-3Bru-1" value="Extends">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="360" y="650" as="sourcePoint" />
-            <mxPoint x="520" y="650" as="targetPoint" />
+            <mxPoint x="780" y="160" as="sourcePoint" />
+            <mxPoint x="940" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-6" edge="1" parent="1" source="9vl2S8CIzGtwFis-3Bru-3" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="9vl2S8CIzGtwFis-3Bru-2" value="Extends">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="315" y="890" as="sourcePoint" />
-            <mxPoint x="475" y="890" as="targetPoint" />
+            <mxPoint x="735" y="400" as="sourcePoint" />
+            <mxPoint x="895" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-7" edge="1" parent="1" source="9vl2S8CIzGtwFis-3Bru-4" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" target="9vl2S8CIzGtwFis-3Bru-2" value="Extends">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="520" y="700" as="sourcePoint" />
-            <mxPoint x="680" y="700" as="targetPoint" />
+            <mxPoint x="940" y="210" as="sourcePoint" />
+            <mxPoint x="1100" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-8" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;div&gt;CountingQuietTextWriter&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="170" x="440" y="890" as="geometry" />
+          <mxGeometry height="50" width="170" x="860" y="400" as="geometry" />
         </mxCell>
         <mxCell id="9vl2S8CIzGtwFis-3Bru-9" edge="1" parent="1" source="9vl2S8CIzGtwFis-3Bru-8" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9vl2S8CIzGtwFis-3Bru-4" value="Extends">
           <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="430" y="850" as="sourcePoint" />
-            <mxPoint x="665" y="820" as="targetPoint" />
+            <mxPoint x="850" y="360" as="sourcePoint" />
+            <mxPoint x="1085" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
