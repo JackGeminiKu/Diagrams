@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="主流程" id="3HldnIOuQtLrwHUO-1mN">
-    <mxGraphModel dx="1611" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1712" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,8 +280,8 @@
         <mxCell id="PsBZDfwHha2lWDHOalyY-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="提示OP量厚度" vertex="1">
           <mxGeometry height="60" width="100" x="430" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="2eUiavWlrehDWLgpTi0H-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;所有cycle都跑完的判断逻辑, 分两种:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;裸电池跑到cycle 502算跑完&lt;/div&gt;&lt;div&gt;非裸电池跑到cycle 1002&lt;/div&gt;" vertex="1">
-          <mxGeometry height="74" width="280" x="880" y="586" as="geometry" />
+        <mxCell id="2eUiavWlrehDWLgpTi0H-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;所有cycle都跑完的判断逻辑, 分两种:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;裸电池跑到cycle 502算跑完&lt;/div&gt;&lt;div&gt;非裸电池跑到cycle 1002&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;裸电池&amp;amp;非裸电池区分&lt;/div&gt;&lt;div&gt;ROUTE列是否有with test buck和without test buck 来區分&lt;/div&gt;" vertex="1">
+          <mxGeometry height="133" width="280" x="880" y="586" as="geometry" />
         </mxCell>
         <mxCell id="2eUiavWlrehDWLgpTi0H-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
