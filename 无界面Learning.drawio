@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="4">
+<mxfile host="app.diagrams.net" pages="5">
   <diagram name="主流程" id="3HldnIOuQtLrwHUO-1mN">
     <mxGraphModel dx="1712" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -715,6 +715,14 @@
         <mxCell id="zEyBER_pH7h-LmyOSWd9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=14;" value="&lt;div&gt;1. Lab条码中含有机种名&amp;amp;温度信息&lt;/div&gt;&lt;div&gt;2. Lab条码中的MP对应learning档中的ORT, 那么NPI阶段如RZ, RF1, RF2又对应Lab条码中的什么???&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="680" x="40" y="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n1AjStVKDze6uFI08Bf6" name="通过电池内码获取learning档">
+    <mxGraphModel dx="1080" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
